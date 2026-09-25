@@ -1,7 +1,7 @@
 
 ## Ex.4 Deployment and configuration of a Private Cloud  in AWS
-#### Name: VINUTHAA NN
-#### Reg no: 212224040362
+#### Name: Arshiya M
+#### Reg no: 212224040029
 ## Aim:
 To set up of a Private Cloud  in AWS.
 
